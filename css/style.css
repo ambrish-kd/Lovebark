@@ -69,6 +69,7 @@ p {
 }
 
 /* Features section */
+
 #features {
     padding: 7% 15%;
     background-color: white;
@@ -90,4 +91,26 @@ p {
 
 .icon:hover {
     color: #ff4c68
+}
+
+/* Testimonial Section */
+
+#testimonials {
+    background-color: #ef8172;
+    color: white;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
