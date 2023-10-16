@@ -13,7 +13,7 @@ A landing page that is modern in look and vibrant in colour for a dating company
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Lovebark-Screenshot](https://github.com/ambrish-kd/Lovebark/assets/90711457/ca2bf8cc-4e13-45d1-9a9a-2491c57d991a)
 
 ## Tech Stack
 
